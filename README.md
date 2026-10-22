@@ -20,4 +20,4 @@ A Machine Learning based sentiment analysis web application developed using Stre
 
 ## Author
 
-Shayan shariq and Aman Kumar Dhiman (Btech Cse Evng 1X Amity Noida)
+Shayan shariq and Aman Kumar Dhiman 
